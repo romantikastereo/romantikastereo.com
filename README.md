@@ -1,2 +1,2 @@
-# romantikastereo.github.io
+# romantikastereo.com
 GitHub Pages
